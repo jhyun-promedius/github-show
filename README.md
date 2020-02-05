@@ -77,7 +77,7 @@
 
 ------
 
-# 과제: Audience type=1에게.
+# 꼭 해보기: Audience type=1에게.
 
    1. 새로운 깃헙 리포를 만들어 보세요.
    1. 만든 리포에 다음과 같은 이슈를 등록해보세요:
@@ -87,7 +87,8 @@
    1. 만든 이슈들에 적당한 내용을 적어보세요. (자유서술, 3점)
       1. 참고: https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
    1. 이슈의 본문을 작성하실 때, Drag and Drop으로 이미지를 넣어보세요. (강아지-고양이 사진일 경우 1점, 귀여울 경우 3점)
-   1. 만든 이슈들을 
+   1. 만든 이슈들에 다음 "Label", "Milestone"을 적절하게 할당해보세요.
+	 	
 
 ------
 
