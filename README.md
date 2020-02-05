@@ -84,6 +84,9 @@
       1. "점심 고르기"
 	    2. "점심 먹기"
 	    3. "인류를 구원하기"
+	 1. 만든 이슈들에 적당한 내용을 적어보세요. (자유서술, 3점)
+	    1. 참고: https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+   1. 이슈의 본문을 작성하실 때, Drag and Drop으로 이미지를 넣어보세요. (강아지-고양이 사진일 경우 1점, 귀여울 경우 3점)
 
 ------
 
