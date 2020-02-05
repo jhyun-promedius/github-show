@@ -51,9 +51,12 @@
 
 여러가지 항목들이 있지만 이번에는 설명하지 않겠습니다:
 
-'New repository'을 클릭하면 다음과 같은 새로운 리포를 위한 설정을 시작합니다:
+'New repository'을 클릭하면 다음과 같은 **새로운 리포를 위한 설정을 시작합니다**:
 
 ![새로운 repo의 설정](/images/new-repo-form.png)
+
+
+   * **Owner** : "Promedius-dev"은 저희 회사 Organization이고, 저기에 리포를 만들면 기본으로 저 Org에 속한 사람들은 모두 접근할 수 있어요.
 
 
 ------
