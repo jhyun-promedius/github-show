@@ -21,7 +21,9 @@
 
 # "Repo을 만들자"
 
-> "Make repo, not war"
+> "Make repo, not war."
+
+![어디에 '+'버튼이 있는가](/images/new-repo.png)
 
 ------
 
