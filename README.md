@@ -90,8 +90,8 @@
    1. 만든 이슈들에 다음 "**Label**", "**Milestone**"을 적절하게 할당해보세요.
       1. Labels: TODO, LUNCHING, DAILY_ROUTINE
       2. Milestones: 
-        1. Today
-        1. 
+         1. Today
+         1. 
 	 	
 
 ------
