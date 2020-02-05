@@ -20,7 +20,8 @@
 -----
 
 # "Repo을 만들자"
-	> "Make repo, not war"
+
+> "Make repo, not war"
 
 ------
 
