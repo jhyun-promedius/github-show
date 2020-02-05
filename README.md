@@ -85,14 +85,16 @@
 	    2. "점심 먹기"
 	    3. "인류를 구원하기"
    1. [ ] 만든 이슈들에 적당한 내용을 적어보세요. (자유서술, 3점)
-      1. 참고: https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+      * 참고: https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
    1. [ ] 이슈의 본문을 작성하실 때, Drag and Drop으로 이미지를 넣어보세요. (강아지-고양이 사진일 경우 1점, 귀여울 경우 3점)
    1. [ ] 만든 이슈들에 다음 "**Label**", "**Milestone**"을 적절하게 할당해보세요.
-      1. Labels: TODO, LUNCHING, DAILY_ROUTINE
-      2. Milestones: 
+      1. Labels: TODO, LUNCHING, DAILY_ROUTINE 중 하나 이상.
+      2. Milestones: 다음 중 하나.
          1. Today
          1. Release-Alpha: due date은 2020년 2월 29일으로.
-	 	
+   1. [ ] 위 이슈끼리 관계를 연결하세요: "점심 고르기" 이슈를 "점심 먹기"의 본문이나 코멘트에서 언급하세요.
+      * 참고: https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#referencing-issues-and-pull-requests
+   1. [ ] "점심 고르기" 이슈에 저 ( @jhyun-promedius )를 언급하시고, 해당 이슈 본문에 대한 질문과 답변, 논의를 코멘트에서 진행해보세요.
 
 ------
 
