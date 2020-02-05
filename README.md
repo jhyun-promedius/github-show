@@ -91,7 +91,7 @@
       1. Labels: TODO, LUNCHING, DAILY_ROUTINE
       2. Milestones: 
          1. Today
-         1. 
+         1. Release-Alpha: due date은 2020년 2월 29일으로.
 	 	
 
 ------
