@@ -62,9 +62,9 @@
 
 즉, "회사 내부에서만 공유하고 싶은 비밀 소스코드/프로젝트를 관리"하는게 목적이라면:
 
-   1) Owner = Promedius-dev
-	 2) Repository name: 뭔가 멋진 것으로.
-	 3) **Private**
+   1. Owner = Promedius-dev
+   2. Repository name: 뭔가 멋진 것으로.
+   3. **Private**
 
 ...와 같이 선택하시면 됩니다.
 
